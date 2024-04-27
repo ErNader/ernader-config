@@ -1,0 +1,4 @@
+vless://5c651477-6c28-4f76-8ac4-c1a25c851f9c@ernader.pro:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ero-config.ernader312.workers.dev&type=ws#ernader-cf-worker
+vless://5c651477-6c28-4f76-8ac4-c1a25c851f9c@ernader.pro:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ero-config.ernader312.workers.dev&type=ws#ernader-cf-worker-TLS
+vless://5c651477-6c28-4f76-8ac4-c1a25c851f9c@ernader.pro:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=ero-config.ernader312.workers.dev&type=ws#ernader-cf-worker-TLS
+https://ero-config.ernader312.workers.dev/5c651477-6c28-4f76-8ac4-c1a25c851f9c/sb
